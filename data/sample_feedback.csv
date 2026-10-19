@@ -1,0 +1,17 @@
+feedback_id,segment,text
+F001,Small business,The checkout payment page is slow and confusing.
+F002,Small business,Payment checkout keeps failing and support is unhelpful.
+F003,Small business,I love the clear dashboard and fast reports.
+F004,Mid market,"Great reports, the dashboard is easy to use."
+F005,Mid market,The invoice export is missing tax fields and creates extra work.
+F006,Mid market,Exporting invoices is frustrating because the tax details disappear.
+F007,Small business,Support answered quickly and solved my billing issue.
+F008,Enterprise,The new billing screen is confusing and our team cannot find invoices.
+F009,Enterprise,Invoice search is slow and the billing page is hard to navigate.
+F010,Small business,Setup was easy and the onboarding guide was excellent.
+F011,Mid market,Onboarding took too long and the instructions were unclear.
+F012,Enterprise,Reports load slowly when we filter a full quarter of transactions.
+F013,Enterprise,Quarterly reporting is slow and sometimes times out.
+F014,Small business,The mobile app crashes when I try to approve a payment.
+F015,Small business,Payment approval on mobile is broken and very frustrating.
+F016,Mid market,The dashboard is useful but I cannot customize the report columns.
